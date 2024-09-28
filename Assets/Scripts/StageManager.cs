@@ -26,7 +26,7 @@ public class StageManager : MonoBehaviour
     public TsumuGenerator tsumuGenerator;
     public TMP_Text timerUI;
 
-
+    //test
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
